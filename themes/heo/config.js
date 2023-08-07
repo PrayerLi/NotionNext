@@ -13,9 +13,9 @@ const CONFIG = {
   HERO_TITLE_1: '个人资料',
   HERO_TITLE_2: '与技能简介',
   HERO_TITLE_3: 'lizhipeng.com',
-  HERO_TITLE_4: 'a',
-  HERO_TITLE_5: 'b',
-  HERO_TITLE_LINK: 'https://www.lizhipeng.me',
+  HERO_TITLE_4: '',
+  HERO_TITLE_5: '',
+  HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -30,7 +30,7 @@ const CONFIG = {
   INFOCARD_GREETINGS: [
     '你好！我是',
     '🤖️ 数码科技爱好者',
-    '🏊‍♂️ 团队小组发动机'
+    '🏊‍♂️ 团队小组发动机',
     '🔍 分享与热心帮助',
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
