@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '个人资料',
   HERO_TITLE_2: '与技能简介',
   HERO_TITLE_3: 'lizhipeng.com',
-  HERO_TITLE_4: '',
-  HERO_TITLE_5: '',
+  HERO_TITLE_4: 'a',
+  HERO_TITLE_5: 'b',
   HERO_TITLE_LINK: 'https://www.lizhipeng.me',
 
   // 英雄区显示三个置顶分类
