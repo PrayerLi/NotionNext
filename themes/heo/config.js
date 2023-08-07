@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '个人资料',
   HERO_TITLE_2: '与技能简介',
   HERO_TITLE_3: 'lizhipeng.com',
-  HERO_TITLE_4: '',
-  HERO_TITLE_5: '',
+  HERO_TITLE_4: '祈祷者',
+  HERO_TITLE_5: 'Prayer',
   HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
@@ -31,7 +31,7 @@ const CONFIG = {
     '你好！我是',
     '🤖️ 数码科技爱好者',
     '🏊‍♂️ 团队小组发动机',
-    '🔍 分享与热心帮助',
+    '🔍 分享与热心帮助
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
