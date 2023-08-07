@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'lizhipeng.com',
   HERO_TITLE_4: '',
   HERO_TITLE_5: '',
-  HERO_TITLE_LINK: '',
+  HERO_TITLE_LINK: 'https://www.lizhipeng.me',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
