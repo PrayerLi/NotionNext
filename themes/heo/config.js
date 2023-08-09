@@ -16,7 +16,7 @@ const CONFIG = {
   HERO_TITLE_3: 'lizhipeng.me',
   HERO_TITLE_4: '祈祷者',
   HERO_TITLE_5: 'Prayer',
-  HERO_TITLE_LINK: '',
+  HERO_TITLE_LINK: 'https://www.lizhipeng.me/article/personal-1',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '个人简介', url: '/tag/个人' },
