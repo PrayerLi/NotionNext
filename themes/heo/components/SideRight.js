@@ -57,6 +57,7 @@ export default function SideRight(props) {
                 <FaceBookPage />
                 <Live2D />
 
+                {/* 站点信息，访问的统计 */}
                 {/* 标签和成绩 */}
                 {/* <Card className={'bg-white dark:bg-[#1e1e1e] dark:text-white'}>
                     <TagGroups tags={tagOptions} currentTag={currentTag} />
